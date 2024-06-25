@@ -1,6 +1,6 @@
 package org.example.Modele;
 
-import org.example.ConnectionManager;
+import org.example.Util.ConnectionManager;
 
 import java.sql.*;
 import java.time.LocalDate;

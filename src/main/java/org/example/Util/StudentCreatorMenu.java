@@ -1,4 +1,4 @@
-package org.example;
+package org.example.Util;
 
 public class StudentCreatorMenu {
     public static void studentMenu() {

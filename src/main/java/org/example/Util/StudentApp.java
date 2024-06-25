@@ -1,7 +1,6 @@
-package org.example;
+package org.example.Util;
 
 import org.example.Modele.Student;
-
 import java.util.Scanner;
 
 public class StudentApp {
